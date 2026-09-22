@@ -1,0 +1,199 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "TrenRezervasyon.Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/rezervasyon": {
+      "post": {
+        "tags": [
+          "Rezervasyon"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RezervasyonRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RezervasyonRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RezervasyonRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/RezervasyonResponseDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RezervasyonResponseDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RezervasyonResponseDto"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ValidationProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ValidationProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ValidationProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "RezervasyonRequestDto": {
+        "type": "object",
+        "properties": {
+          "Tren": {
+            "$ref": "#/components/schemas/TrenDto"
+          },
+          "RezervasyonYapilacakKisiSayisi": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "KisilerFarkliVagonlaraYerlestirilebilir": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RezervasyonResponseDto": {
+        "type": "object",
+        "properties": {
+          "RezervasyonYapilabilir": {
+            "type": "boolean"
+          },
+          "YerlesimAyrinti": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/YerlesimAyrintiDto"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TrenDto": {
+        "type": "object",
+        "properties": {
+          "Ad": {
+            "type": "string",
+            "nullable": true
+          },
+          "Vagonlar": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/VagonDto"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "VagonDto": {
+        "type": "object",
+        "properties": {
+          "Ad": {
+            "type": "string",
+            "nullable": true
+          },
+          "Kapasite": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "DoluKoltukAdet": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ValidationProblemDetails": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "detail": {
+            "type": "string",
+            "nullable": true
+          },
+          "instance": {
+            "type": "string",
+            "nullable": true
+          },
+          "errors": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": { }
+      },
+      "YerlesimAyrintiDto": {
+        "type": "object",
+        "properties": {
+          "VagonAdi": {
+            "type": "string",
+            "nullable": true
+          },
+          "KisiSayisi": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

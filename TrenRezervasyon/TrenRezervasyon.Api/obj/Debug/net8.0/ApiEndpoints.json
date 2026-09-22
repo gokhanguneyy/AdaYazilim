@@ -1,0 +1,37 @@
+[
+  {
+    "ContainingType": "TrenRezervasyon.Api.Controllers.RezervasyonController",
+    "Method": "Hesapla",
+    "RelativePath": "api/rezervasyon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TrenRezervasyon.Api.DTOs.Requests.RezervasyonRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TrenRezervasyon.Api.DTOs.Responses.RezervasyonResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ValidationProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  }
+]
