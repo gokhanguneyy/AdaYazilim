@@ -3,52 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\controllers\\rezervasyoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\controllers\\rezervasyoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\services\\rezervasyonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\services\\rezervasyonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\mappings\\rezervasyonmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\mappings\\rezervasyonmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\dtos\\responses\\rezervasyonresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\dtos\\responses\\rezervasyonresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\services\\irezervasyonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\services\\irezervasyonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\validators\\trendtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\validators\\trendtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\validators\\rezervasyonrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\validators\\rezervasyonrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\validators\\vagondtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\validators\\vagondtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\models\\vagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\models\\vagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\dtos\\requests\\vagondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\dtos\\requests\\vagondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\dtos\\responses\\yerlesimayrintidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\dtos\\responses\\yerlesimayrintidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\dtos\\requests\\rezervasyonrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,8 +15,56 @@
       "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\dtos\\requests\\trendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\dtos\\requests\\vagondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\dtos\\requests\\vagondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\dtos\\responses\\rezervasyonresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\dtos\\responses\\rezervasyonresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\dtos\\responses\\yerlesimayrintidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\dtos\\responses\\yerlesimayrintidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\mappings\\rezervasyonmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\mappings\\rezervasyonmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\models\\tren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\models\\tren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\models\\vagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\models\\vagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\validators\\vagondtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\validators\\vagondtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\validators\\trendtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\validators\\trendtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\services\\irezervasyonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\services\\irezervasyonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\validators\\rezervasyonrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\validators\\rezervasyonrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|c:\\users\\gokha\\documents\\github\\adayazilim\\trenrezervasyon\\trenrezervasyon.api\\services\\rezervasyonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CAA769-D7D5-4186-A4DE-02119D9049C8}|TrenRezervasyon.Api\\TrenRezervasyon.Api.csproj|solutionrelative:trenrezervasyon.api\\services\\rezervasyonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,33 +86,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TrenRezervasyon.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\appsettings.json",
+              "RelativeToolTip": "TrenRezervasyon.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-27T16:32:35.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "RezervasyonController.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Controllers\\RezervasyonController.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\Controllers\\RezervasyonController.cs",
               "ToolTip": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Controllers\\RezervasyonController.cs",
               "RelativeToolTip": "TrenRezervasyon.Api\\Controllers\\RezervasyonController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwDYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T22:28:54.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "RezervasyonService.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Services\\RezervasyonService.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\Services\\RezervasyonService.cs",
               "ToolTip": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Services\\RezervasyonService.cs",
               "RelativeToolTip": "TrenRezervasyon.Api\\Services\\RezervasyonService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwGAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T22:21:51.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "IRezervasyonService.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Services\\IRezervasyonService.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\Services\\IRezervasyonService.cs",
@@ -121,20 +138,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "RezervasyonRequestValidator.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Validators\\RezervasyonRequestValidator.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\Validators\\RezervasyonRequestValidator.cs",
               "ToolTip": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Validators\\RezervasyonRequestValidator.cs",
               "RelativeToolTip": "TrenRezervasyon.Api\\Validators\\RezervasyonRequestValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T21:16:45.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "TrenDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Validators\\TrenDtoValidator.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\Validators\\TrenDtoValidator.cs",
@@ -147,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "VagonDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Validators\\VagonDtoValidator.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\Validators\\VagonDtoValidator.cs",
@@ -160,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Program.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\Program.cs",
@@ -173,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "RezervasyonMappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Mappings\\RezervasyonMappingProfile.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\Mappings\\RezervasyonMappingProfile.cs",
@@ -199,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "YerlesimAyrintiDto.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\DTOs\\Responses\\YerlesimAyrintiDto.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\DTOs\\Responses\\YerlesimAyrintiDto.cs",
@@ -212,20 +229,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "RezervasyonRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\DTOs\\Requests\\RezervasyonRequestDto.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\DTOs\\Requests\\RezervasyonRequestDto.cs",
               "ToolTip": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\DTOs\\Requests\\RezervasyonRequestDto.cs",
               "RelativeToolTip": "TrenRezervasyon.Api\\DTOs\\Requests\\RezervasyonRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T20:54:27.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "TrenDto.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\DTOs\\Requests\\TrenDto.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\DTOs\\Requests\\TrenDto.cs",
@@ -238,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "VagonDto.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\DTOs\\Requests\\VagonDto.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\DTOs\\Requests\\VagonDto.cs",
@@ -251,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "Tren.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Models\\Tren.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\Models\\Tren.cs",
@@ -264,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Vagon.cs",
               "DocumentMoniker": "C:\\Users\\gokha\\Documents\\GitHub\\AdaYazilim\\TrenRezervasyon\\TrenRezervasyon.Api\\Models\\Vagon.cs",
               "RelativeDocumentMoniker": "TrenRezervasyon.Api\\Models\\Vagon.cs",

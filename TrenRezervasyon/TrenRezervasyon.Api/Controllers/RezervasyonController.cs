@@ -13,32 +13,20 @@ public class RezervasyonController : ControllerBase
     private readonly IRezervasyonService _rezervasyonService;
     private readonly IValidator<RezervasyonRequestDto> _validator;
 
-    public RezervasyonController(
-        IRezervasyonService rezervasyonService,
-        IValidator<RezervasyonRequestDto> validator)
+    public RezervasyonController(IRezervasyonService rezervasyonService, IValidator<RezervasyonRequestDto> validator)
     {
         _rezervasyonService = rezervasyonService;
         _validator = validator;
     }
 
     [HttpPost]
-    [ProducesResponseType(
-        typeof(RezervasyonResponseDto),
-        StatusCodes.Status200OK)]
-    [ProducesResponseType(
-        typeof(ValidationProblemDetails),
-        StatusCodes.Status400BadRequest)]
-    public async Task<ActionResult<RezervasyonResponseDto>> Hesapla(
-        [FromBody] RezervasyonRequestDto request,
-        CancellationToken cancellationToken)
+    public async Task<ActionResult<RezervasyonResponseDto>> Hesapla([FromBody] RezervasyonRequestDto request, CancellationToken cancellationToken)
     {
-        var dogrulamaSonucu =
-            await _validator.ValidateAsync(request, cancellationToken);
+        var dogrulamaSonucu = await _validator.ValidateAsync(request, cancellationToken);
 
         if (!dogrulamaSonucu.IsValid)
         {
-            var hataDetaylari = new ValidationProblemDetails(
-                dogrulamaSonucu.ToDictionary())
+            var hataDetaylari = new ValidationProblemDetails(dogrulamaSonucu.ToDictionary())
             {
                 Title = "Gönderilen bilgiler geçersiz.",
                 Status = StatusCodes.Status400BadRequest,

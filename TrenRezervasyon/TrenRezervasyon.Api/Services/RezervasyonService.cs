@@ -14,31 +14,23 @@ public class RezervasyonService : IRezervasyonService
         _mapper = mapper;
     }
 
-    public RezervasyonResponseDto RezervasyonHesapla(
-        RezervasyonRequestDto request)
+    public RezervasyonResponseDto RezervasyonHesapla(RezervasyonRequestDto request)
     {
         var tren = _mapper.Map<Tren>(request.Tren);
 
         if (!request.KisilerFarkliVagonlaraYerlestirilebilir)
         {
-            return AyniVagonaYerlestir(
-                tren,
-                request.RezervasyonYapilacakKisiSayisi);
+            return AyniVagonaYerlestir(tren, request.RezervasyonYapilacakKisiSayisi);
         }
 
-        return FarkliVagonlaraYerlestir(
-            tren,
-            request.RezervasyonYapilacakKisiSayisi);
+        return FarkliVagonlaraYerlestir(tren, request.RezervasyonYapilacakKisiSayisi);
     }
 
-    private RezervasyonResponseDto AyniVagonaYerlestir(
-        Tren tren,
-        int kisiSayisi)
+    private RezervasyonResponseDto AyniVagonaYerlestir(Tren tren, int kisiSayisi)
     {
         foreach (var vagon in tren.Vagonlar)
         {
-            int kullanilabilirKoltukSayisi =
-                vagon.KullanilabilirKoltukSayisiHesapla();
+            int kullanilabilirKoltukSayisi = vagon.KullanilabilirKoltukSayisiHesapla();
 
             if (kullanilabilirKoltukSayisi >= kisiSayisi)
             {
@@ -63,9 +55,7 @@ public class RezervasyonService : IRezervasyonService
         };
     }
 
-    private RezervasyonResponseDto FarkliVagonlaraYerlestir(
-        Tren tren,
-        int kisiSayisi)
+    private RezervasyonResponseDto FarkliVagonlaraYerlestir(Tren tren, int kisiSayisi)
     {
         int kalanKisiSayisi = kisiSayisi;
 
@@ -73,16 +63,14 @@ public class RezervasyonService : IRezervasyonService
 
         foreach (var vagon in tren.Vagonlar)
         {
-            int kullanilabilirKoltukSayisi =
-                vagon.KullanilabilirKoltukSayisiHesapla();
+            int kullanilabilirKoltukSayisi = vagon.KullanilabilirKoltukSayisiHesapla();
 
             if (kullanilabilirKoltukSayisi == 0)
             {
                 continue;
             }
 
-            int yerlestirilecekKisiSayisi =
-                Math.Min(kullanilabilirKoltukSayisi, kalanKisiSayisi);
+            int yerlestirilecekKisiSayisi = Math.Min(kullanilabilirKoltukSayisi, kalanKisiSayisi);
 
             yerlesimAyrinti.Add(new YerlesimAyrintiDto
             {

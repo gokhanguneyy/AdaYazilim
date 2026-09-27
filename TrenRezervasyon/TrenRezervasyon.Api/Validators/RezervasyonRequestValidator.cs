@@ -6,8 +6,7 @@ namespace TrenRezervasyon.Api.Validators;
 public class RezervasyonRequestValidator
     : AbstractValidator<RezervasyonRequestDto>
 {
-    public RezervasyonRequestValidator(
-        IValidator<TrenDto> trenValidator)
+    public RezervasyonRequestValidator(IValidator<TrenDto> trenValidator)
     {
         RuleFor(x => x.RezervasyonYapilacakKisiSayisi)
             .GreaterThan(0)

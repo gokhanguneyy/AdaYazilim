@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrenRezervasyon.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+327f0f16101b8db4aaae3496514bf7589b55d97b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrenRezervasyon.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrenRezervasyon.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

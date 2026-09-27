@@ -45,3 +45,4 @@ C:\Users\gokha\Documents\GitHub\AdaYazilim\TrenRezervasyon\TrenRezervasyon.Api\b
 C:\Users\gokha\Documents\GitHub\AdaYazilim\TrenRezervasyon\TrenRezervasyon.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\gokha\Documents\GitHub\AdaYazilim\TrenRezervasyon\TrenRezervasyon.Api\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\gokha\Documents\GitHub\AdaYazilim\TrenRezervasyon\TrenRezervasyon.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\gokha\Documents\GitHub\AdaYazilim\TrenRezervasyon\TrenRezervasyon.Api\obj\Debug\net8.0\TrenRezervasyon.Api.sourcelink.json
